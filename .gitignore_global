@@ -1,2 +1,3 @@
-*csv
+# file types
+*.csv
 __pycache__
