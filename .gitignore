@@ -1,2 +1,5 @@
 # directories
 scraped_pages/
+
+# logs
+geckodriver.log
