@@ -1,3 +1,4 @@
 # file types
 *.csv
+*.pdf
 __pycache__

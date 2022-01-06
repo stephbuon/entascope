@@ -1,5 +1,10 @@
 # directories
 scraped_pages/
+results/
 
 # logs
 geckodriver.log
+
+# cache
+
+__pycache__
