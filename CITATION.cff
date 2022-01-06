@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Buongiorno
+    given-names: Stephanie
+    orcid: https://orcid.org/0000-0002-6965-0787
+title: "entascope"
+version: 0.1.1
+date-released: 2021-12-05
