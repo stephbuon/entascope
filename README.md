@@ -1,5 +1,9 @@
 # entascope
 
+FOR NOW THIS IS JUST FOR FUN
+
+UNDER CONSTRUCTION 
+
 A tool for extracting and analyzing named entities on websites. 
 
 #PERSON:      People, including fictional.
