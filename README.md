@@ -26,8 +26,6 @@ vis: named_entities_news
 | `TIME` | Times smaller than a day. |
 | `PERCENT` | Percentage, including "%". |
 | `MONEY` | Monetary values, including unit. |
-
-
-#QUANTITY:    Measurements, as of weight or distance.
-#ORDINAL:     “first”, “second”, etc.
-#CARDINAL:    Numerals that do not fall under another type.
+| `QUANTITY` | Measurements such as weight or distance. |
+| `ORDINAL` | Ordered data such as "first," "second," etc. |
+| `CARDINAL` | Numerals that do not fall under another type. |
