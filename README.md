@@ -1,4 +1,4 @@
-# entascope
+# "entascope" - A Scope for Named Entities
 
 FOR NOW THIS IS JUST FOR FUN
 
