@@ -1,0 +1,208 @@
+,entity_label,entity_text
+0,DATE,2021
+0,DATE,Wednesday
+0,DATE,"Tuesday, Dec. 21, 2021"
+0,DATE,the first half of December
+0,DATE,Christmas
+0,DATE,"Wednesday, Dec. 22, 2021"
+0,DATE,Monday
+0,DATE,earlier this week
+0,DATE,weekly
+0,DATE,2021
+0,DATE,2021
+0,DATE,a rough Christmas Eve
+0,DATE,Friday
+0,DATE,Saturday
+0,DATE,Christmas Eve
+0,DATE,Friday
+0,DATE,Thursday
+0,DATE,"Dec. 23, 2021"
+0,DATE,this week
+0,DATE,Friday
+0,DATE,Saturday
+0,DATE,Thursday
+0,DATE,"Dec. 23, 2021.AP"
+0,DATE,Dec. 21
+0,DATE,5-day
+0,DATE,Thursday
+0,DATE,"Dec. 23, 2021"
+0,DATE,10-day
+0,DATE,5-day
+0,DATE,Dec. 23
+0,DATE,10-day
+0,DATE,2021
+0,DATE,2021
+0,DATE,Friday
+0,DATE,Friday
+0,DATE,Christmas
+0,DATE,a second year
+0,DATE,2021
+1,ORG,FOX News Network
+1,ORG,LLC
+1,ORG,FactSet Digital Solutions
+1,ORG,Mutual Fund
+1,ORG,Fox News Flash
+1,ORG,Foxnews.com
+1,ORG,Vanderbilt University
+1,ORG,PPE
+1,ORG,King's College Hospital
+1,ORG,AP
+1,ORG,Imperial College
+1,ORG,PCR
+1,ORG,the University of Edinburgh
+1,EVENT,Omicron
+1,ORG,Ascano
+1,ORG,Mayo Clinic
+1,ORG,APP
+1,EVENT,Omicron
+1,ORG,AP Photo/Frank Augstein
+1,ORG,FOX News Network
+1,ORG,LLC
+1,ORG,FactSet Digital Solutions
+1,ORG,Mutual Fund
+1,ORG,FactSet Digital Solutions
+1,ORG,Mutual Fund
+1,ORG,FOX News Network
+1,ORG,LLC
+1,ORG,New Privacy Policy
+1,ORG,United Airlines
+1,ORG,FOX Business
+1,ORG,United Airlines
+1,ORG,the United Airlines
+1,ORG,United Airlines
+1,ORG,FOX Business
+1,EVENT,DELTA AIRLINES
+1,ORG,American Airlines
+1,ORG,AP Photo/Gene J. Puskar /
+1,EVENT,Omicron
+1,ORG,’ve
+1,ORG,United Airlines
+1,EVENT,Delta Air Lines
+1,EVENT,Delta Air Lines
+1,EVENT,Omicron
+1,ORG,Southwest Airlines
+1,ORG,Photo/Gene J. Puskar
+1,ORG,AP Photo/Gene J. Puskar /
+1,ORG,ON PLANES
+1,EVENT,Delta Air Lines
+1,ORG,the Centers for Disease Control and Prevention
+1,EVENT,Delta
+1,ORG,Southwest Airlines
+1,ORG,AP Photo/
+1,EVENT,Omicron
+1,EVENT,Omicron
+1,ORG,Airlines for America
+1,ORG,American Airlines
+1,EVENT,Delta Air Lines
+1,ORG,United Airlines
+1,ORG,the Association of Flight Attendants-CWA
+1,ORG,the Centers for Disease Control and Prevention
+1,ORG,FactSet Digital Solutions
+1,ORG,Mutual Fund
+1,ORG,FOX News Network
+1,ORG,LLC
+1,ORG,New Privacy Policy
+1,ORG,FOX News Network
+1,ORG,LLC
+1,ORG,FactSet Digital Solutions
+1,ORG,Mutual Fund
+1,ORG,Capitol
+1,ORG,the White House
+1,ORG,Merck
+1,ORG,Fox News
+1,ORG,The White House
+1,ORG,Senate
+1,ORG,FOX News Network
+1,ORG,LLC
+1,ORG,FactSet Digital Solutions
+1,ORG,Mutual Fund
+2,PERSON,Quotes
+2,PERSON,Refinitiv Lipper
+2,PERSON,Manuel Ascano Jr.
+2,EVENT,COVID-19
+2,PERSON,Matthew Binnicker
+2,PERSON,Boris Johnson
+2,PERSON,Salim Abdool Karim
+2,PERSON,Refinitiv Lipper
+2,PERSON,Refinitiv Lipper
+2,PERSON,Ed Bastian
+2,PERSON,Rochelle Walensky
+2,PERSON,Charles Rex
+2,PERSON,Walensky
+2,PERSON,Refinitiv Lipper
+2,PERSON,Quotes
+2,PERSON,Refinitiv Lipper
+2,EVENT,COVID-19 -  
+2,PERSON,Kathy Hochul
+2,EVENT,COVID-19
+2,PERSON,Kamala Harris
+2,EVENT,COVID-19
+2,PERSON,Janette Nesheiwat
+2,ORG,Pfizer
+2,EVENT,COVID-19
+2,PERSON,Janette Nesheiwat
+2,PERSON,Marc Siegel
+2,PERSON,Willie Wilson
+2,PERSON,Stefanie Mingari
+2,PERSON,Refinitiv Lipper
+3,TIME,at least 15 minutes
+3,TIME,a night
+3,TIME,at least 15 minutes
+3,TIME,at least 15 minutes
+3,TIME,at least 15 minutes
+3,TIME,at least 15 minutes
+3,TIME,at least 15 minutes
+4,CARDINAL,Two
+4,CARDINAL,"56,000"
+4,CARDINAL,"269,000"
+4,CARDINAL,two-thirds
+4,CARDINAL,"nearly 24,000"
+4,CARDINAL,185
+4,CARDINAL,about 123
+4,CARDINAL,21
+4,CARDINAL,165
+4,CARDINAL,164
+4,CARDINAL,billions
+4,CARDINAL,two
+5,NORP,British
+5,NORP,Scottish
+5,NORP,British
+5,NORP,Bastian
+6,GPE,London
+6,GPE,London
+6,GPE,England
+6,GPE,England
+6,GPE,Scotland
+6,GPE,Scotland
+6,GPE,the United Kingdom
+6,GPE,Rochester
+6,GPE,Minnesota
+6,GPE,Trafalgar Square
+6,GPE,London
+6,GPE,South Africa
+6,GPE,South Africa
+6,GPE,Denver
+6,GPE,Newark
+6,GPE,Imperial
+6,GPE,Pa.
+6,GPE,Imperial
+6,GPE,Pa.
+6,GPE,Chicago
+6,GPE,U.S.
+6,GPE,D-N.Y.
+6,GPE,New York
+6,GPE,Albany
+6,GPE,U.S.
+6,GPE,US
+6,GPE,Chicago
+7,PERCENT,around 20%
+7,PERCENT,40%
+7,PERCENT,around 2% to 4%
+7,PERCENT,20%
+7,PERCENT,about 9%
+8,ORDINAL,first
+8,ORDINAL,first
+9,EVENT,Delta
+10,FAC,Pittsburgh International Airport
+10,FAC,Pittsburgh International Airport
+10,FAC,Midway International Airport

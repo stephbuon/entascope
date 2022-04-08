@@ -1,0 +1,474 @@
+,entity_label,entity_text
+0,PERSON,Ryan Garza
+0,PERSON,Ryan Garza
+0,PERSON,Ana Tamez
+0,PERSON,Ryan Garza
+0,EVENT,COVID-19
+0,PERSON,Sydney Isenberg
+0,EVENT,Omicron
+0,PERSON,Joe Biden
+0,PERSON,Jen Psaki
+0,PERSON,Bill De Blasio
+0,PERSON,Elizabeth Warren
+0,PERSON,Warren
+0,EVENT,COVID-19
+0,PERSON,Corey Booker
+0,PERSON,Jason Crow
+0,PERSON,Biden
+1,TIME,11:13 AM
+1,TIME,11:47 AM
+1,TIME,5:56 PM
+1,TIME,11:19 AM
+1,TIME,11 a.m. to 6 p.m.
+2,DATE,"04, 2021"
+2,DATE,"Dec 24, 2021"
+2,DATE,"01, 2021"
+2,DATE,"04, 2021"
+2,DATE,Thursday
+2,DATE,Christmas Eve
+2,DATE,this week
+2,DATE,the holidays
+2,DATE,Monday
+2,DATE,last week
+2,DATE,only one week
+2,DATE,the end of June
+2,DATE,less than a month ago
+2,DATE,Nov. 26
+2,DATE,Dec. 1
+2,DATE,Nov. 22
+2,DATE,Tuesday
+2,DATE,the fourth day in a row
+2,DATE,Between Dec. 23 and Jan. 2
+2,DATE,last year
+2,DATE,this week
+2,DATE,Christmas
+2,DATE,the weekend
+2,DATE,one day
+2,DATE,the weekend
+2,DATE,Today through Sunday
+2,DATE,everyone ages 5
+2,DATE,Today
+2,DATE,5633
+2,DATE,Sunday
+2,DATE,the weekend
+2,DATE,Monday
+3,ORG,Scripps National
+3,ORG,National News
+3,ORG,National News
+3,ORG,National News
+3,ORG,National News
+3,ORG,National News
+3,ORG,National News
+3,ORG,National News
+3,ORG,National Politics
+3,ORG,United Airlines
+3,EVENT,Delta Air Lines
+3,ORG,United
+3,EVENT,Omicron
+3,ORG,’ve
+3,ORG,United
+3,EVENT,Delta
+3,ORG,AP
+3,ORG,The Centers for Disease Control and Prevention
+3,ORG,World Health Organization
+3,ORG,the Associated Press
+3,ORG,CDC
+3,ORG,White House
+3,ORG,TSA
+3,ORG,CORPUS
+3,ORG,QSR
+4,GPE,DENVER
+4,GPE,Colorado
+4,GPE,NEW YORK
+4,GPE,U.S.
+4,GPE,U.S.
+4,GPE,the United States
+4,GPE,U.S.
+4,GPE,South Africa
+4,GPE,U.S.
+4,GPE,NEW YORK
+4,GPE,New York
+4,GPE,New York City
+4,GPE,New York City
+4,GPE,New York
+4,GPE,Texas
+4,GPE,Nueces County
+4,GPE,D-Massachusetts
+4,PERSON,Warren
+4,PERSON,Warren
+4,GPE,Washington
+4,GPE,U.S.
+5,CARDINAL,Millions
+5,CARDINAL,about 90
+5,CARDINAL,more than 2 million
+5,CARDINAL,more than 109 million
+5,CARDINAL,"more than 22,000"
+5,CARDINAL,Two
+5,CARDINAL,three
+6,PERCENT,an estimated 73%
+6,PERCENT,30 percent
+7,QUANTITY,six-fold
+7,QUANTITY,at least 50 miles
+8,LOC,Africa
+9,ORDINAL,first
+10,NORP,Americans
+11,EVENT,New Year's Eve Times Square
+12,EVENT,COVID-19
+12,EVENT,COVID-19
+12,PRODUCT,Twitter
+,entity_label,entity_text
+0,PERSON,Ryan Garza
+0,PERSON,Ryan Garza
+0,PERSON,Ana Tamez
+0,PERSON,Ryan Garza
+0,EVENT,COVID-19
+0,PERSON,Sydney Isenberg
+0,PERSON,Joe Biden
+0,PERSON,Biden
+0,PERSON,Biden
+0,PERSON,Jen Psaki
+0,PERSON,Biden
+0,PERSON,Jimbo Fisher
+0,PERSON,John Currie
+0,PERSON,Doug Myers
+0,PERSON,Rochelle Walensky
+0,EVENT,COVID-19
+0,EVENT,COVID-19
+0,PERSON,Corpus Christi-Nueces County Public Health District Local Health Authority
+0,PERSON,Srikanth
+0,EVENT,Omicron
+0,EVENT,Omicron
+0,PERSON,Ramachandruni
+0,PERSON,Jaime Fergie
+0,PERSON,Joe Biden
+0,PERSON,Biden
+0,PERSON,Biden
+0,PERSON,Biden
+0,PERSON,Biden
+0,PERSON,Biden
+0,PERSON,Biden
+0,EVENT,COVID-19
+0,PERSON,Biden
+0,EVENT,COVID-19
+0,PERSON,Biden
+0,PERSON,Biden
+0,EVENT,Omicron
+0,PERSON,Anthony Fauci
+0,PERSON,Joe Biden
+0,PERSON,Joe St. George
+0,PERSON,Biden
+0,PERSON,Biden
+0,PERSON,Joe Manchin's
+0,PERSON,Biden
+1,TIME,11:13 AM
+1,TIME,11:47 AM
+1,TIME,5:56 PM
+1,TIME,11:19 AM
+2,DATE,"04, 2021"
+2,DATE,"Dec 24, 2021"
+2,DATE,"01, 2021"
+2,DATE,"04, 2021"
+2,DATE,Thursday
+2,DATE,Christmas Eve
+2,DATE,this week
+2,DATE,the holidays
+2,DATE,Wednesday
+2,DATE,Wednesday
+2,DATE,Friday
+2,DATE,79
+2,DATE,Post-season
+2,DATE,8-4
+2,DATE,Dec. 31
+2,DATE,Sunday
+2,DATE,Wednesday
+2,DATE,Monday
+2,DATE,the past week
+2,DATE,the past week
+2,DATE,almost two years
+2,DATE,earlier this month
+2,DATE,1949
+2,DATE,1975
+2,DATE,October
+2,DATE,2 years old
+2,DATE,1995
+2,DATE,Tuesday
+2,DATE,Tuesday
+2,DATE,the early days
+2,DATE,March 2020
+2,DATE,Christmas
+2,DATE,the same day
+2,DATE,earlier this year
+2,DATE,recent weeks
+2,DATE,Tuesday
+2,DATE,recent months
+2,DATE,the weeks
+2,DATE,Monday
+2,DATE,Dec. 1
+2,DATE,just a week ago
+2,DATE,today
+2,DATE,today
+2,DATE,each week
+3,ORG,Scripps National
+3,ORG,National News
+3,ORG,National News
+3,ORG,National News
+3,ORG,National News
+3,ORG,National News
+3,ORG,National News
+3,ORG,National News
+3,ORG,National Politics
+3,ORG,United Airlines
+3,EVENT,Delta Air Lines
+3,ORG,United
+3,EVENT,Omicron
+3,ORG,’ve
+3,ORG,United
+3,EVENT,Delta
+3,ORG,the White House
+3,ORG,the White House
+3,ORG,the Centers for Disease Control
+3,ORG,Texas A&M
+3,ORG,the TaxSlayer Gator Bowl
+3,ORG,Aggie
+3,ORG,Aggies
+3,ORG,the TaxSlayer Gator Bowl
+3,ORG,Texas A&M
+3,ORG,Athletics Ross Bjork
+3,ORG,ESPN
+3,ORG,Wake Forest
+3,ORG,Athletics
+3,ORG,KXXV
+3,ORG,the US Centers for Disease Control
+3,ORG,CDC
+3,ORG,the White House
+3,ORG,Walensky
+3,ORG,Walensky
+3,ORG,CDC
+3,ORG,CDC
+3,ORG,CDC
+3,ORG,the Coastal Bend
+3,ORG,Driscoll Children's
+3,ORG,Fergie
+3,ORG,Fergie
+3,ORG,MMR
+3,ORG,MMR
+3,ORG,MMR
+3,ORG,The U.S. Secret Service
+3,ORG,Secret Service
+3,ORG,the U.S. Labor Department
+3,ORG,The Secret Service
+3,ORG,the White House
+3,ORG,Pentagon
+3,ORG,FEMA
+3,ORG,FEMA
+3,ORG,The Centers for Disease Control and Prevention
+3,ORG,CDC
+3,ORG,White House
+3,ORG,Paulo Salazar
+3,ORG,Sierra Pizarro
+4,GPE,DENVER
+4,GPE,Colorado
+4,GPE,Jacksonville
+4,GPE,U.S.
+4,GPE,Nueces County
+4,GPE,Nueces
+4,GPE,South Africa
+4,GPE,Egypt
+4,GPE,the United States
+4,GPE,Bangladesh
+4,GPE,Venezuela
+4,GPE,United States
+4,GPE,the United States
+4,GPE,the United States
+4,GPE,WASHINGTON
+4,GPE,D.C.
+4,GPE,U.S.
+4,GPE,U.S.
+4,GPE,U.S.
+4,GPE,WASHINGTON
+4,GPE,D.C.
+4,GPE,Washington
+4,GPE,St. George
+4,GPE,St. George
+4,GPE,Washington
+5,CARDINAL,Millions
+5,CARDINAL,20
+5,CARDINAL,five
+5,CARDINAL,20
+5,CARDINAL,10
+5,CARDINAL,"149,000"
+5,CARDINAL,Twelve hundred
+5,CARDINAL,three
+5,CARDINAL,one
+5,CARDINAL,more than six million
+5,CARDINAL,500 million
+5,CARDINAL,"1,000"
+5,CARDINAL,six
+5,CARDINAL,six
+6,PRODUCT,Air Force One
+6,EVENT,COVID-19
+6,EVENT,COVID-19
+6,EVENT,COVID-19
+7,EVENT,New Year’s Eve
+8,FAC,Aggies
+8,FAC,KRIS 6 Sunrise
+9,PERCENT,75%
+9,PERCENT,25%
+9,PERCENT,3.5%
+9,PERCENT,61.2%
+9,PERCENT,99 percent
+9,PERCENT,73%
+9,PERCENT,3%
+10,QUANTITY,6 feet
+11,NORP,Americans
+11,NORP,Americans
+11,NORP,Americans
+11,NORP,American
+11,NORP,Americans
+11,NORP,Americans
+12,LOC,South America
+13,ORDINAL,first
+14,MONEY,nearly $100 billion
+14,MONEY,$400 billion
+15,WORK_OF_ART,Build Back Better
+,entity_label,entity_text
+0,PERSON,Ryan Garza
+0,PERSON,Ryan Garza
+0,PERSON,Ana Tamez
+0,PERSON,Ryan Garza
+0,EVENT,COVID-19
+0,PERSON,Sydney Isenberg
+0,PERSON,Biden
+0,ORG,Pfizer
+0,PERSON,Christopher Bird
+0,PERSON,Corpus Christi
+0,PERSON,Julie Rogers
+0,EVENT,COVID-19
+0,PERSON,Corpus Christi
+0,EVENT,COVID-19
+0,PERSON,Vitamin D
+0,PERSON,Jaime Fergie
+0,EVENT,COVID-19
+0,PERSON,Corpus Christi-Nueces County Public Health District
+0,PERSON,Kim Onufrak
+0,PERSON,Luis Wilmot
+0,PERSON,Barbara Canales
+0,PERSON,Christopher Bird
+1,TIME,11:13 AM
+1,TIME,11:47 AM
+1,TIME,5:56 PM
+1,TIME,11:19 AM
+1,TIME,3 p.m.
+1,TIME,last night
+2,DATE,"04, 2021"
+2,DATE,"Dec 24, 2021"
+2,DATE,"01, 2021"
+2,DATE,"04, 2021"
+2,DATE,Thursday
+2,DATE,Christmas Eve
+2,DATE,this week
+2,DATE,the holidays
+2,DATE,Thursday
+2,DATE,seven-day
+2,DATE,year
+2,DATE,annual
+2,DATE,2020
+2,DATE,Jan. 7
+2,DATE,weekly
+2,DATE,Thursday
+2,DATE,December
+2,DATE,November
+2,DATE,Christmas
+2,DATE,this year
+2,DATE,the second year
+2,DATE,10 days
+2,DATE,this holiday season
+2,DATE,two or three months ago
+2,DATE,the holidays
+2,DATE,the next few weeks
+2,DATE,Wednesday
+3,ORG,Scripps National
+3,ORG,National News
+3,ORG,National News
+3,ORG,National News
+3,ORG,National News
+3,ORG,National News
+3,ORG,National News
+3,ORG,National News
+3,ORG,National Politics
+3,ORG,United Airlines
+3,EVENT,Delta Air Lines
+3,ORG,United
+3,EVENT,Omicron
+3,ORG,’ve
+3,ORG,United
+3,EVENT,Delta
+3,ORG,The Supreme Court
+3,ORG,Merck
+3,ORG,The Food and Drug Administration
+3,ORG,FDA
+3,ORG,Merck
+3,ORG,Merck
+3,ORG,CORPUS
+3,ORG,the Coastal Bend
+3,EVENT,Omicron
+3,ORG,Texas A&M University-Corpus Christi
+3,ORG,Bird
+3,ORG,CORPUS
+3,EVENT,Omicron
+3,ORG,Driscoll Children’s Hospital
+3,EVENT,Omicron
+3,EVENT,Omicron
+3,ORG,Fergie
+3,ORG,Fergie
+3,ORG,PCR
+3,ORG,PCR
+3,EVENT,Omicron
+3,ORG,Onufrak
+3,EVENT,Omicron
+3,ORG,CORPUS
+4,GPE,DENVER
+4,GPE,Colorado
+4,GPE,New York City
+4,GPE,New York City
+4,GPE,New York City
+4,GPE,WASHINGTON
+4,GPE,D.C.
+4,GPE,WASHINGTON
+4,GPE,D.C.
+4,GPE,U.S.
+4,GPE,Texas
+4,GPE,Nueces County
+4,GPE,Nueces County
+4,GPE,Texas
+4,GPE,San Antonio
+4,GPE,U.S.
+4,GPE,Texas
+4,GPE,The City of Corpus Christi and Nueces County
+4,GPE,Nueces County
+5,CARDINAL,Millions
+5,CARDINAL,"15,000"
+5,CARDINAL,"Approximately 58,000"
+5,CARDINAL,"12,000"
+5,CARDINAL,Two
+5,CARDINAL,One
+5,CARDINAL,"1,070"
+5,CARDINAL,two to five
+5,CARDINAL,at least 24
+5,CARDINAL,31
+6,EVENT,the New Year's Eve
+6,EVENT,New Year's Eve
+7,FAC,Times Square
+7,FAC,Times Square
+8,ORDINAL,second
+8,ORDINAL,first
+8,ORDINAL,third
+9,PERCENT,53.7 percent
+9,PERCENT,73 percent
+9,PERCENT,95 percent
+9,PERCENT,up to 80 percent
+10,EVENT,COVID-19
+10,EVENT,COVID-19
+11,WORK_OF_ART,Vitamins matter
+12,EVENT,Delta
+12,EVENT,Delta
