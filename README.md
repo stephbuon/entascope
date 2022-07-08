@@ -1,16 +1,12 @@
 # "entascope" - A Scope for Named Entities
 
-FOR NOW THIS IS JUST FOR FUN
+Use the entascope to identify and extract named entities from news outlets' websites. 
 
-UNDER CONSTRUCTION 
+This is a work in progress. 
 
-The "entascope" -- a scope for named entities.
+Right now you can extract entities from NPR, FOX, and MSNBC. Documentation will be added later.
 
-
-A tool for extracting and analyzing named entities on websites. 
-
-vis: named_entities_news
-
+## Description of Named spaCy's Named Entity Labels
 
 | Label  | Description |
 | ------------- | ------------- |
